@@ -9,4 +9,3 @@ class Solution:
                 return False
             else:
                 exist_list.append(n)
-
