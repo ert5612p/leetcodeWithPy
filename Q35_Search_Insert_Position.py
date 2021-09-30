@@ -1,3 +1,4 @@
+#偷看解答QQ binaey search
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         l=0
